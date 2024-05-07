@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\ExerciseAbstractMethods\ExerciseAbstractMethods\bin\Debug\net8.0\ExerciseAbstractMethods.exe
+C:\Users\Pedro\source\repos\ExerciseAbstractMethods\ExerciseAbstractMethods\bin\Debug\net8.0\ExerciseAbstractMethods.deps.json
+C:\Users\Pedro\source\repos\ExerciseAbstractMethods\ExerciseAbstractMethods\bin\Debug\net8.0\ExerciseAbstractMethods.runtimeconfig.json
+C:\Users\Pedro\source\repos\ExerciseAbstractMethods\ExerciseAbstractMethods\bin\Debug\net8.0\ExerciseAbstractMethods.dll
+C:\Users\Pedro\source\repos\ExerciseAbstractMethods\ExerciseAbstractMethods\bin\Debug\net8.0\ExerciseAbstractMethods.pdb
+C:\Users\Pedro\source\repos\ExerciseAbstractMethods\ExerciseAbstractMethods\obj\Debug\net8.0\ExerciseAbstractMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\ExerciseAbstractMethods\ExerciseAbstractMethods\obj\Debug\net8.0\ExerciseAbstractMethods.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\ExerciseAbstractMethods\ExerciseAbstractMethods\obj\Debug\net8.0\ExerciseAbstractMethods.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\ExerciseAbstractMethods\ExerciseAbstractMethods\obj\Debug\net8.0\ExerciseAbstractMethods.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\ExerciseAbstractMethods\ExerciseAbstractMethods\obj\Debug\net8.0\ExerciseAbstractMethods.dll
+C:\Users\Pedro\source\repos\ExerciseAbstractMethods\ExerciseAbstractMethods\obj\Debug\net8.0\refint\ExerciseAbstractMethods.dll
+C:\Users\Pedro\source\repos\ExerciseAbstractMethods\ExerciseAbstractMethods\obj\Debug\net8.0\ExerciseAbstractMethods.pdb
+C:\Users\Pedro\source\repos\ExerciseAbstractMethods\ExerciseAbstractMethods\obj\Debug\net8.0\ExerciseAbstractMethods.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\ExerciseAbstractMethods\ExerciseAbstractMethods\obj\Debug\net8.0\ref\ExerciseAbstractMethods.dll
